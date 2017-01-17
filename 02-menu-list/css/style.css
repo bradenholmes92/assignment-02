@@ -1,0 +1,11 @@
+.body-content span{
+  color: #66CC99;
+}
+
+.body-content{
+  font-family: "Avenir", sans-serif;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
