@@ -1,0 +1,38 @@
+#app-container {
+  font-family: 'futura';
+  display: inline-block;
+}
+
+.header {
+  text-align: center;
+  padding: 13px;
+  font-size: small;
+  border-top: solid 1px;
+  border-bottom: solid 1px;
+}
+
+.header span{
+  color: lightgrey;
+  padding-left: 10px;
+}
+
+ul{
+  padding-left: none;
+}
+
+a{
+  color: white;
+}
+
+input{
+  padding-left: 30px;
+}
+
+
+
+li {
+  display: inline-block;
+  color: white;
+  background-color: rgb(205,92,92);
+  padding: 5px;
+}

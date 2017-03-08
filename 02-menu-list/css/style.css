@@ -4,8 +4,11 @@
 
 .body-content{
   font-family: "Avenir", sans-serif;
-  margin-left: 100px;
-  margin-right: 100px;
-  padding-left: 15px;
-  padding-right: 15px;
+  margin: 0 auto;
+  width: 28%;
+  border: solid gray 1px;
+}
+
+.info{
+  border-top: solid gray 1px;
 }
